@@ -1,3 +1,6 @@
-print("hello world")
-
-print("printing again")
+def hello():
+     """
+     this is demo
+     """
+     return "hello"
+hello()
